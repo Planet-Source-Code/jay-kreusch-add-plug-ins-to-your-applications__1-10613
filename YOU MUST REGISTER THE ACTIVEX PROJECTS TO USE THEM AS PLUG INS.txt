@@ -1,0 +1,2 @@
+To register an activeX EXE - Double-click the executable
+To register an activeX DLL - at a command prompt, type regsvr32.exe and then the full path to the DLL
